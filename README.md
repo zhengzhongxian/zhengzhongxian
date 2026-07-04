@@ -4,7 +4,7 @@
   ### Full-Stack Software Developer
 
   <p align="center">
-    Chuyên phát triển ứng dụng web với <b>C# / .NET</b>, <b>Java / Spring Boot</b> và <b>ReactJS</b>.
+    Full-stack developer focused on <b>C# / .NET</b>, <b>Java / Spring Boot</b>, and <b>ReactJS</b>.
   </p>
 
   ---
